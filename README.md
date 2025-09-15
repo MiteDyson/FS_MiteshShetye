@@ -180,7 +180,7 @@ npm run dev
 Open [http://localhost:3000](http://localhost:3000)
 
 ---
-## 🏗️ High-Level Architecture (Text Flow)
+## 🏗️ Architecture Flow (Text)
 
 ```plaintext
                  ┌────────────────────┐
